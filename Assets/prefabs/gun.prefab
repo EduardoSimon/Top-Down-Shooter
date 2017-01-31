@@ -20,7 +20,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4571475145655570}
   m_Layer: 0
-  m_Name: graphics
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -38,12 +38,12 @@ GameObject:
   - component: {fileID: 65906308129786014}
   - component: {fileID: 23887253897970504}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1166891785136352
 GameObject:
   m_ObjectHideFlags: 1
@@ -56,12 +56,12 @@ GameObject:
   - component: {fileID: 65091913041524096}
   - component: {fileID: 23872059085566520}
   m_Layer: 0
-  m_Name: graphics
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1403846757017638
 GameObject:
   m_ObjectHideFlags: 0
@@ -90,12 +90,12 @@ GameObject:
   - component: {fileID: 65876221728260044}
   - component: {fileID: 23429117230673220}
   m_Layer: 0
-  m_Name: Cube (2)
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1591056873186882
 GameObject:
   m_ObjectHideFlags: 1
@@ -108,12 +108,12 @@ GameObject:
   - component: {fileID: 65665987296425090}
   - component: {fileID: 23904095887405508}
   m_Layer: 0
-  m_Name: Cube (1)
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &1852034480256498
 GameObject:
   m_ObjectHideFlags: 0
@@ -123,7 +123,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4986295317960092}
   m_Layer: 0
-  m_Name: ProjectileSpawn
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -437,7 +437,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77efe6c201fd100429605030e18a2ece, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  muzzle: {fileID: 4986295317960092}
-  bullet: {fileID: 114780585081124140, guid: 7d10fe638a032c040bae3423f6d3e22f, type: 2}
+  muzzle: {fileID: 0}
+  bullet: {fileID: 0}
   timeBetweenBulletInMs: 100
   muzzleVelocity: 35
