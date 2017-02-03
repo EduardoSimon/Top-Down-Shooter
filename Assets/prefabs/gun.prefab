@@ -149,7 +149,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1403846757017638}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 6.1218605, y: 0.082538605, z: -8.080475}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4571475145655570}
@@ -438,6 +438,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   muzzle: {fileID: 0}
-  bullet: {fileID: 0}
+  bullet: {fileID: 114780585081124140, guid: 7d10fe638a032c040bae3423f6d3e22f, type: 2}
   timeBetweenBulletInMs: 100
   muzzleVelocity: 35
